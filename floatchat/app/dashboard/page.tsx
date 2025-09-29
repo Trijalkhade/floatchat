@@ -1,0 +1,1 @@
+import OceanMap from '@/components/OceanMap';export default function Dashboard(){return(<div style={{padding:'1rem'}}><h1 style={{fontSize:24,fontWeight:700}}>FloatChat Dashboard</h1><OceanMap/></div>);}

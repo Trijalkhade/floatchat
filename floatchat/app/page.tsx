@@ -1,0 +1,1 @@
+'use client';export default function Landing(){return(<main style={{display:'flex',alignItems:'center',justifyContent:'center',height:'100vh'}}><a href='/dashboard' style={{padding:'1rem 2rem',background:'#2563eb',color:'#fff',borderRadius:8}}>Enter Dashboard</a></main>);}
